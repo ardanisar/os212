@@ -1,3 +1,9 @@
+---
+permalink: /CHECKLIST/
+---
+
+# CHECKLIST
+
 ##WEEK00
 ~~Create GitHub Public Repository ”os212”.
 Start Week 00 Log.

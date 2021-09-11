@@ -17,6 +17,6 @@ Importing (OVA) or Installing (ISO)?~~
 Do the ATM way: GSGS and Read!
 ~~Dress Up Your Virtual Guest
 SSH Keys for Git~~
-Dress Up Your GitHub Page
+~~Dress Up Your GitHub Page~~
 ~~Update mylog.txt~~
 More awk, bash, regex, sed

@@ -4,7 +4,7 @@ permalink: /CHECKLIST/
 
 # CHECKLIST
 
-##WEEK00
+**_WEEK00_**
 
 ~~Create GitHub Public Repository ”os212”.
 
@@ -16,7 +16,7 @@ permalink: /CHECKLIST/
 
 ~~Reading Assignment~~
 
-##WEEK01
+**_WEEK01_**
 
 ~~VirtualBox Guest Preparation~~
 

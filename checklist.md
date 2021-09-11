@@ -2,11 +2,11 @@
 permalink: /CHECKLIST/
 ---
 
-# CHECKLIST
+# CHECKLIST 
 
 ## **_WEEK00_**
 
-~~Create GitHub Public Repository ”os212”.
+~~Create GitHub Public Repository ”os212”.~~
 
 ~~Start Week 00 Log.~~
 

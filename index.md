@@ -1,1 +1,1 @@
-[HOME](https://ardanisar.github.io/os212/) |  [LINKS](https://github.com/ardanisar/os212/blob/master/links.md) | [LOG](https://ardanisar.github.io/os212/TXT/mylog.txt) | [GitHub Repository](https://github.com/ardanisar/os212)
+[HOME](https://ardanisar.github.io) |  [LINKS](https://github.com/ardanisar/os212/blob/master/links.md) | [LOG](https://ardanisar.github.io/os212/TXT/mylog.txt) | [GitHub Repository](https://github.com/ardanisar/os212)

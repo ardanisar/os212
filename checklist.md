@@ -2,7 +2,8 @@
 permalink: /CHECKLIST/
 ---
 
-# CHECKLIST 
+# 📝 Checklist 
+**_For personal use, to keep track on operating system assignment_**
 
 ## **_WEEK00_**
 

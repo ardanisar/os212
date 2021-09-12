@@ -16,9 +16,9 @@ permalink: /CHECKLIST/
 ## **_WEEK01_**
 ~~VirtualBox Guest Preparation~~<br />
 ~~Importing (OVA) or Installing (ISO)?~~<br />
-Do the ATM way: GSGS and Read!<br />
+~~Do the ATM way: GSGS and Read!<br />~~
 ~~Dress Up Your Virtual Guest~~<br />
 ~~SSH Keys for Git~~<br />
 ~~Dress Up Your GitHub Page~~<br />
 ~~Update mylog.txt~~<br />
-More awk, bash, regex, sed<br />
+~~More awk, bash, regex, sed<br />~~

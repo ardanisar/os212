@@ -2,6 +2,8 @@
 permalink: /LINKS/
 ---
 
+[HOME](https://ardanisar.github.io/os212/) |  [LINKS](https://ardanisar.github.io/os212/LINKS/) | [LOG](https://ardanisar.github.io/os212/TXT/mylog.txt) |  [CHECKLIST](https://ardanisar.github.io/os212/CHECKLIST/) | [GitHub Repository](https://github.com/ardanisar/os212)
+
 # 📌 Top Links For Operating System
 
 1. [Basic Operating System](https://www.guru99.com/operating-system-tutorial.html) <br>

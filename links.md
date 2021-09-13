@@ -19,6 +19,6 @@ Debian adalah sistem operasi yang menggunakan Linux sebagai basisnya. Versi pert
 Vi editor adalah editor berbasis teks yang umum digunakan oleh pengguna Linux/Unix. Dalam pembelajaran sistem operasi, kita perlu menganal editor ini untuk dapat memahami sistem operasi linux lebih lanjut. Penggunaan Vi editor memang agak sulit karena tidak tersedia menu yang memberikan petunjuk untuk melakukan sebuah perintah. Untuk itu, situs di atas dapat membantu dalam menjabarkan Basic Vi Commands yang dapat berguna untuk memudahkan pekerjaan kita seperti write file, find matching, replace characther, dan masih banyak lagi. 
 
 5. [Learn Regex](https://github.com/dwyl/learn-regex) <br>
-Regex (Regular Expression) adalah sebuah string (teks) yang digunakan untuk melakukan pola pencarian untuk memalukan matching, locate, dan manipulasi teks. Link di atas dapat membantu untuk dapat memahami basic regular expression berikut dengan contoh penggunaannya.
+Regex (Regular Expression) adalah sebuah string (teks) yang digunakan untuk melakukan pola pencarian untuk melakukan matching, locate, dan manipulasi teks. Link di atas dapat membantu untuk dapat memahami basic regular expression berikut dengan contoh penggunaannya.
 
 

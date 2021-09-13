@@ -2,6 +2,8 @@
 permalink: /CHECKLIST/
 ---
 
+[HOME](https://ardanisar.github.io/os212/) |  [LINKS](https://ardanisar.github.io/os212/LINKS/) | [LOG](https://ardanisar.github.io/os212/TXT/mylog.txt) |  [CHECKLIST](https://ardanisar.github.io/os212/CHECKLIST/) | [GitHub Repository](https://github.com/ardanisar/os212)
+
 # 📝 Checklist 
 **_For personal use, to keep track on operating system assignment_**
 

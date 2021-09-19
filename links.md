@@ -21,4 +21,10 @@ Vi editor adalah editor berbasis teks yang umum digunakan oleh pengguna Linux/Un
 5. [Learn Regex](https://github.com/dwyl/learn-regex) <br>
 Regex (Regular Expression) adalah sebuah string (teks) yang digunakan untuk melakukan pola pencarian untuk melakukan matching, locate, dan manipulasi teks. Link di atas dapat membantu untuk dapat memahami basic regular expression berikut dengan contoh penggunaannya.
 
+6. [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0) <br>
+Dalam mata kuliah sistem operasi ini, diperlukan pemahaman mengenai bahasa pemrograman C. Video diatas dapat digunakan untuk memahami basic C programming dengan lebih mudah.
+
+7. [What is Cyber Security](https://youtu.be/inWWhr5tnEA) <br>
+Link video di atas dapat membantu untuk memahami apa itu cyber security secara umum dan juga penjelasan mengenai jenis-jenisnya disertai beberapa contoh aktualnya. 
+
 

@@ -1,1 +1,7 @@
-#Top Ranks
+# Rank Format
+# ZCZC WEEK# NAME
+# TOP 10 Rank
+
+ZCZC W01 ariiesaka
+ZCZC W01 athaqilmakarim
+ZCZC W01 ardhanidzaky

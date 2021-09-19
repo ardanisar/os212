@@ -25,6 +25,9 @@ Regex (Regular Expression) adalah sebuah string (teks) yang digunakan untuk mela
 Dalam mata kuliah sistem operasi ini, diperlukan pemahaman mengenai bahasa pemrograman C. Video diatas dapat digunakan untuk memahami basic C programming dengan lebih mudah.
 
 7. [What is Cyber Security](https://youtu.be/inWWhr5tnEA) <br>
-Link video di atas dapat membantu untuk memahami apa itu cyber security secara umum dan juga penjelasan mengenai jenis-jenisnya disertai beberapa contoh aktualnya. 
+Link video di atas dapat membantu untuk memahami apa itu cyber security secara umum dan juga penjelasan mengenai jenis-jenis cyber security disertai beberapa contoh aktualnya. 
+
+8. [Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity) <br>
+Dilansir dari CISCO, cybersecurity adalah proses perlindungan sistem, data, jaringan, dan program dari ancaman atau serangan digital. Biasanya, serangan ini dilakukan oleh pihak tak bertanggung jawab dengan mengakses informasi sensitif, atau bahkan mengubah dan menghancurkan data penting. Motifnya bisa jadi untuk mengganggu sebuah bisnis, atau bisa juga untuk memeras uang. Link di atas dapat membantu untuk mempelajari cybersecurity termasuk di dalamnya mengenai history and cybersecurity standards, cyber threat, cryptography, autentication, and authorization, network security basic, dan securing our personal devices.
 
 

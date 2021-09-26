@@ -30,4 +30,10 @@ Link video di atas dapat membantu untuk memahami apa itu cyber security secara u
 8. [Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity) <br>
 Dilansir dari CISCO, cybersecurity adalah proses perlindungan sistem, data, jaringan, dan program dari ancaman atau serangan digital. Biasanya, serangan ini dilakukan oleh pihak tak bertanggung jawab dengan mengakses informasi sensitif, atau bahkan mengubah dan menghancurkan data penting. Motifnya bisa jadi untuk mengganggu sebuah bisnis, atau bisa juga untuk memeras uang. Link di atas dapat membantu untuk mempelajari cybersecurity termasuk di dalamnya mengenai history and cybersecurity standards, cyber threat, cryptography, autentication, and authorization, network security basic, dan securing our personal devices.
 
+9. [Linux File System](https://youtu.be/HbgzrKJvDRw) <br>
+Sistem file (file system) atau sistem berkas merupakan struktur logika yang digunakan untuk mengendalikan akses terhadap data yang ada pada disk. Dengan kata lain, sistem file merupakan database khusus untuk penyimpanan, pengelolaan, manipulasi dan pengambilan data, agar mudah ditemukan dan diakses. Video di atas dapat embantu dalam memahami linux file system.
+
+10. [Linux File Hierarchy Standard](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/) <br>
+Struktur Hirarki File Linux atau Filesystem Hierarchy Standard (FHS) mendefinisikan struktur direktori dan konten direktori dalam sistem operasi mirip Unix. Itu dikelola oleh Yayasan Linux. Link di atas dapat membantu dalam memahami linux file hierarchy standard.
+
 

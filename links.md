@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 
-[Home](https://ardanisar.github.io/os212/) |  [Links](https://ardanisar.github.io/os212/LINKS/) | [Log](https://ardanisar.github.io/os212/TXT/mylog.txt) |  [Rank](https://ardanisar.github.io/os212/TXT/myrank.txt) | [GitHub Repository](https://github.com/ardanisar/os212)
+| [HOME](https://ardanisar.github.io/os212/) | [GITHUB](https://github.com/ardanisar/os212) |  [LINKS](https://ardanisar.github.io/os212/LINKS/) | [LOG](https://ardanisar.github.io/os212/TXT/mylog.txt) |  [RANK](https://ardanisar.github.io/os212/TXT/myrank.txt) | [KEY](https://ardanisar.github.io/os212/TXT/mypubkey.txt) |
 
 # 📌 Top Links For Operating System
 

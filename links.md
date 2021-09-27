@@ -36,4 +36,7 @@ Sistem file (file system) atau sistem berkas merupakan struktur logika yang digu
 10. [Linux File Hierarchy Standard](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/) <br>
 Struktur Hirarki File Linux atau Filesystem Hierarchy Standard (FHS) mendefinisikan struktur direktori dan konten direktori dalam sistem operasi mirip Unix. Itu dikelola oleh Yayasan Linux. Link di atas dapat membantu dalam memahami linux file hierarchy standard.
 
+11. [Disk Partitioning in Linux](https://www.geeksforgeeks.org/disk-partitioning-in-linux/) <br>
+Partisi Disk adalah proses membagi disk menjadi satu atau lebih area logis, sering dikenal sebagai partisi, di mana pengguna dapat bekerja secara terpisah. Ini adalah salah satu langkah format disk. Jika partisi dibuat, disk akan menyimpan informasi tentang lokasi dan ukuran partisi di tabel partisi. 
+
 

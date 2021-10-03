@@ -83,7 +83,7 @@ ZCZC W04  10 L18 Assignment #08
 ZCZC W04  15 L19 Assignment #09
 ZCZC W04 240 L70 Studying other courses
 ZCZC W04  60 L06 GSGS Related
-ZCZC W04  15 L32 Youtube: Study OS
+ZCZC W04  90 L32 Youtube: Study OS
 
 
 

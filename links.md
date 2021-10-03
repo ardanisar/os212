@@ -39,4 +39,13 @@ Struktur Hirarki File Linux atau Filesystem Hierarchy Standard (FHS) mendefinisi
 11. [Disk Partitioning in Linux](https://www.geeksforgeeks.org/disk-partitioning-in-linux/) <br>
 Partisi Disk adalah proses membagi disk menjadi satu atau lebih area logis, sering dikenal sebagai partisi, di mana pengguna dapat bekerja secara terpisah. Ini adalah salah satu langkah format disk. Jika partisi dibuat, disk akan menyimpan informasi tentang lokasi dan ukuran partisi di tabel partisi. 
 
+12. [Pointer in C Programminf](https://www.guru99.com/c-pointers.html) <br>
+Pointer dalam C, adalah variabel yang menyimpan alamat dari variabel lain. Pointer juga dapat digunakan untuk merujuk ke fungsi pointer lain. Pointer dapat ditambah/dikurangi, yaitu untuk menunjuk ke lokasi memori berikutnya/sebelumnya. Tujuan pointer adalah untuk menghemat ruang memori dan mencapai waktu eksekusi yang lebih cepat. Link di atas dapat membantu untuk mempelajari pointer pada C Programming.
+
+13. [Big-Endian vs Little Endian](https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/) <br>
+Bahasa yang berbeda membaca teks mereka dalam urutan yang berbeda. Bahasa Inggris dibaca dari kiri ke kanan, misalnya, sedangkan bahasa Arab dibaca dari kanan ke kiri. Inilah tepatnya endianness untuk komputer. Jika komputer saya membaca byte dari kiri ke kanan, dan komputer Anda membaca dari kanan ke kiri, kita akan mengalami masalah saat kita perlu berkomunikasi. Endianness berarti bahwa byte dalam memori komputer dibaca dalam urutan tertentu. Endianness diwakili dua cara Big-endian (BE) dan Little-endian (LE). Link di atas dapat membantu untuk memahami Little-endian dan Big-endian.
+
+14. [Logical VS Physical Address](https://techdifferences.com/difference-between-logical-and-physical-address.html) <br>
+Address secara unik mengidentifikasi lokasi dalam memori. Terdapat dua jenis addressing yaitu logical address dan physical address. Logical address adalah alamat virtual dan dapat dilihat oleh pengguna. Pengguna tidak dapat melihat alamat fisik secara langsung. Sedangkan logical address digunakan untuk referensi, untuk mengakses physical address. Link di atas dapat membantu untuk dapat memahami materi mengenai addressing.
+
 

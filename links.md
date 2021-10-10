@@ -48,4 +48,10 @@ Bahasa yang berbeda membaca teks mereka dalam urutan yang berbeda. Bahasa Inggri
 14. [Logical VS Physical Address](https://techdifferences.com/difference-between-logical-and-physical-address.html) <br>
 Address secara unik mengidentifikasi lokasi dalam memori. Terdapat dua jenis addressing yaitu logical address dan physical address. Logical address adalah alamat virtual dan dapat dilihat oleh pengguna. Pengguna tidak dapat melihat alamat fisik secara langsung. Sedangkan logical address digunakan untuk referensi, untuk mengakses physical address. Link di atas dapat membantu untuk dapat memahami materi mengenai addressing.
 
+15. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br>  
+Virtual Memory adalah skema alokasi penyimpanan di mana memori sekunder dapat dialamatkan seolah-olah itu adalah bagian dari main memori. Alamat yang mungkin digunakan    program untuk referensi memori dibedakan dari alamat yang digunakan sistem memori untuk mengidentifikasi situs penyimpanan fisik, dan alamat yang dihasilkan program diterjemahkan secara otomatis ke alamat mesin yang sesuai. Link di atas dapat membantu dalam memahami virtual memory dengan lebih mudah.
+
+16. [Virtual Memory Series](https://youtu.be/qcBIvnQt0Bw) <br>
+Link di atas berisi video-video mengenai penjelasan virtual memori. Penjelasannya cukup lengkap dan durasinya cukup singkat, sehingga kita bisa memilih bagian materi mana saja yang ingin kita tonton.
+
 

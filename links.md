@@ -2,9 +2,9 @@
 permalink: /LINKS/
 ---
 
-| [HOME](https://ardanisar.github.io/os212/) | [GITHUB](https://github.com/ardanisar/os212) |  [LINKS](https://ardanisar.github.io/os212/LINKS/) | [LOG](https://ardanisar.github.io/os212/TXT/mylog.txt) |  [RANK](https://ardanisar.github.io/os212/TXT/myrank.txt) | [KEY](https://ardanisar.github.io/os212/TXT/mypubkey.txt) |
+| [HOME](https://ardanisar.github.io/os212/) | [GITHUB](https://github.com/ardanisar/os212) |  [LINKS](https://ardanisar.github.io/os212/LINKS/) | [LOG](https://ardanisar.github.io/os212/TXT/mylog.txt) |  [RANK](https://ardanisar.github.io/os212/TXT/myrank.txt) | [TIPS](https://ardanisar.github.io/os212/TIPS/) |
 
-# 📌 Top Links For Operating System
+# 📌 TOP LINKS FOR OPERATING SYSTEM
 
 1. [Basic Operating System](https://www.guru99.com/operating-system-tutorial.html) <br>
 Sebagai awalan mata kuliah Sistem Operasi, kita perlu mengetahui definisi dari sistem operasi dan beberapa hal penting yang berkaitan dengan sistem operasi. Sistem operasi adalah sebuah perangkat lunak yang berperan sebagai interface yang berada diantara komponen hardware dan komputer pengguna. Situs ini membahas sistem operasi dengan sangat lengkap mulai dari pengertian, sejarah sistem operasi, apa itu kernel dalam sistem operasi, hingga perbandingan antara 32 bit vs 64 bit operating system.

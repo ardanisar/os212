@@ -8,7 +8,7 @@ permalink: /TIPS/
 1. Don't be a deadliner 🕰️ <br>
    Sometimes when you do OS assignments there are errors and GSGS is no longer helping, then you need help from TA or friends. Keep in mind that it's not necessarily someone else who can help you quickly, so don't be a deadliner. 
 
-2. Always do GSGS :mag_right: 📑 <br>
+2. Always do GSGS 🔎📑 <br>
    When you don't understand something related to OS, do try to do GSGS first before you ask for TA help. Do GSGS also to learn the material on certain weeks.
    
 3. Learn from Youtube is very helpful 🖥️ <br>
@@ -17,6 +17,6 @@ permalink: /TIPS/
 4. Get enough sleep 💤 ⏰ <br>
    Don't stay up late before the quiz, so you don't get sleepy during the quiz. Make sure you wake up early, so you don't be late for the quiz. 
 
-### GOOD LUCK 🔥:love_you_gesture:
+### GOOD LUCK 🔥🤟
 
 

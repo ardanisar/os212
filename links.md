@@ -51,7 +51,10 @@ Address secara unik mengidentifikasi lokasi dalam memori. Terdapat dua jenis add
 15. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br>  
 Virtual Memory adalah skema alokasi penyimpanan di mana memori sekunder dapat dialamatkan seolah-olah itu adalah bagian dari main memori. Alamat yang mungkin digunakan    program untuk referensi memori dibedakan dari alamat yang digunakan sistem memori untuk mengidentifikasi situs penyimpanan fisik, dan alamat yang dihasilkan program diterjemahkan secara otomatis ke alamat mesin yang sesuai. Link di atas dapat membantu dalam memahami virtual memory dengan lebih mudah.
 
-16. [Virtual Memory Series](https://youtu.be/qcBIvnQt0Bw) <br>
+16. [Virtual Memory Playlist](https://youtu.be/qcBIvnQt0Bw) <br>
 Link di atas berisi video-video mengenai penjelasan virtual memori. Penjelasannya cukup lengkap dan durasinya cukup singkat, sehingga kita bisa memilih bagian materi mana saja yang ingin kita tonton.
+
+17. [First Fit, Next Fit, Best Fit and Worst Fit Algorithms | Memory Management in Operasting System](https://youtu.be/fz9v-SZt3cQ) <br>
+Link video di atas dapat membantu untuk memahami mengenai memory allocation algorithm yaitu first fit, next fit, best fit, dan worst fit. 
 
 

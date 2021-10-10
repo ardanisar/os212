@@ -17,6 +17,6 @@ permalink: /TIPS/
 4. Get enough sleep 💤 ⏰ <br>
    Don't stay up late before the quiz, so you don't get sleepy during the quiz. Make sure you wake up early, so you don't be late for the quiz. 
 
-# GOOD LUCK 🔥:love_you_gesture:
+### GOOD LUCK 🔥:love_you_gesture:
 
 

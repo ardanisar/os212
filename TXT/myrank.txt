@@ -11,11 +11,7 @@ ZCZC W03 Chreploe
 ZCZC W04 deyuna
 ZCZC W04 determinedguy
 ZCZC W04 dhekmass12
-<<<<<<< HEAD
-
-
-=======
 ZCZC W05 Dimasichsanul
 ZCZC W05 dimas-id
 ZCZC W05 elfaraera
->>>>>>> 3b51b38 (week 05)
+

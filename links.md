@@ -6,7 +6,7 @@ permalink: /LINKS/
 
 # 📌 Top Links For Operation System
 
-1. [###Basic Operating System](https://www.guru99.com/operating-system-tutorial.html) <br>
+1. [### Basic Operating System](https://www.guru99.com/operating-system-tutorial.html) <br>
 Sebagai awalan mata kuliah Sistem Operasi, kita perlu mengetahui definisi dari sistem operasi dan beberapa hal penting yang berkaitan dengan sistem operasi. Sistem operasi adalah sebuah perangkat lunak yang berperan sebagai interface yang berada diantara komponen hardware dan komputer pengguna. Situs ini membahas sistem operasi dengan sangat lengkap mulai dari pengertian, sejarah sistem operasi, apa itu kernel dalam sistem operasi, hingga perbandingan antara 32 bit vs 64 bit operating system.
 
 2. [Mastering Git Commands](https://towardsdatascience.com/mastering-git-commands-the-logic-behind-git-ad3fbcc6fb33) <br>

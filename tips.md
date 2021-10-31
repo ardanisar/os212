@@ -4,7 +4,7 @@ permalink: /TIPS/
 
 | [HOME](https://ardanisar.github.io/os212/) | [GITHUB](https://github.com/ardanisar/os212) |  [LINKS](https://ardanisar.github.io/os212/LINKS/) | [LOG](https://ardanisar.github.io/os212/TXT/mylog.txt) |  [RANK](https://ardanisar.github.io/os212/TXT/myrank.txt) | [TIPS](https://ardanisar.github.io/os212/TIPS/) |
 
-# TIPS 🗒️💁‍♀️
+# 🗒️Tips
 1. Don't be a deadliner 🕰️ <br>
    Sometimes when you do OS assignments there are errors and GSGS is no longer helping, then you need help from TA or friends. Keep in mind that it's not necessarily someone else who can help you quickly, so don't be a deadliner. 
 

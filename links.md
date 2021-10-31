@@ -57,4 +57,34 @@ Link di atas berisi video-video mengenai penjelasan virtual memori. Penjelasanny
 17. [First Fit, Next Fit, Best Fit and Worst Fit Algorithms | Memory Management in Operasting System](https://youtu.be/fz9v-SZt3cQ) <br>
 Link video di atas dapat membantu untuk memahami mengenai memory allocation algorithm yaitu first fit, next fit, best fit, dan worst fit. 
 
+18. [Memory Management](https://www.geeksforgeeks.org/memory-management-in-operating-system/) <br>
+Memory management adalah metode dalam sistem operasi untuk mengelola operasi antara memori utama dan disk selama eksekusi proses. Tujuan utama dari manajemen memori adalah untuk mencapai pemanfaatan memori yang efisien. Link di atas dapat membantu dalam memahami materi memory management dengan mudah
+
+19. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/) <br>
+Concurrency adalah eksekusi beberapa urutan instruksi secara bersamaan. Itu terjadi di sistem operasi ketika ada beberapa utas proses yang berjalan secara paralel. Utas proses yang berjalan selalu berkomunikasi satu sama lain melalui memori bersama atau lewat pesan. Hasil konkurensi dalam berbagi sumber daya menghasilkan masalah seperti kebuntuan dan kelaparan sumber daya. Link di atas dapat membantu dalam memahami materi concurrency pada sistem operasi
+
+20. [Introduction of Process Management](https://www.geeksforgeeks.org/introduction-of-process-management/?ref=lbp) <br>
+Process adalah entitas 'aktif', bukan program, yang dianggap sebagai entitas 'pasif'. Satu program dapat membuat banyak process ketika dijalankan beberapa kali; misalnya, ketika kita membuka file .exe atau biner beberapa kali, beberapa instance dimulai (beberapa proses dibuat).
+
+21. [States of a Process in Operating Systems](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/?ref=lbp) <br>
+Link di atas menjelaskan state yang ada pada process di operasi sistem , CPU and IO bound process, types of schedulers, multiprogramming, dan degree of multiprogramming.
+
+23. [Process Schedulers in Operating System](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/?ref=lbp) <br>
+Process scheduler adalah aktivitas manajer proses yang menangani penghapusan process yang sedang berjalan dari CPU dan pemilihan process lain berdasarkan strategi tertentu. Process scheduling adalah bagian penting dari sistem operasi Multiprogramming. Sistem operasi tersebut memungkinkan lebih dari satu process untuk dimuat ke dalam memori yang dapat dieksekusi pada satu waktu dan proses yang dimuat berbagi CPU menggunakan multiplexing waktu.
+
+25. [Process Table and Process Control Block (PCB)](geeksforgeeks.org/process-table-and-process-control-block-pcb/?ref=lbp) <br>
+Process control block (PCB) digunakan untuk melacak status eksekusi proses. Setiap blok memori berisi informasi tentang status proses, penghitung program, penunjuk tumpukan, status file yang dibuka, algoritma penjadwalan, dll. Semua informasi ini diperlukan dan harus disimpan saat proses dialihkan dari satu status ke status lainnya. Ketika proses membuat transisi dari satu keadaan ke keadaan lain, sistem operasi harus memperbarui informasi dalam PCB proses.
+
+25. [Interrupts](https://www.geeksforgeeks.org/interrupts/?ref=lbp) <br>
+Interrupt adalah sinyal yang dipancarkan oleh perangkat keras atau perangkat lunak ketika suatu proses atau peristiwa membutuhkan perhatian segera. Ini mengingatkan prosesor untuk proses prioritas tinggi yang membutuhkan gangguan dari proses kerja saat ini. Dalam perangkat I/O salah satu jalur kontrol bus didedikasikan untuk tujuan ini dan disebut Interrupt Service Routine (ISR).
+
+25. [Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/?ref=lbp) <br>
+Thread adalah jalur eksekusi dalam suatu proses. Suatu proses dapat berisi banyak utas. Thread juga dikenal sebagai proses ringan. Idenya adalah untuk mencapai paralelisme dengan membagi proses menjadi beberapa thread. Misalnya, di browser, beberapa tab dapat menjadi thread yang berbeda. 
+
+26. [Threads and its types in Operating System](https://www.geeksforgeeks.org/threads-and-its-types-in-operating-system/?ref=lbp) <br>
+Thread adalah single sequence stream dalam suatu proses. Thread memiliki sifat yang sama dengan proses sehingga disebut sebagai proses ringan. Thread dieksekusi satu demi satu tetapi memberikan ilusi seolah-olah mereka dieksekusi secara paralel. Setiap thread memiliki status yang berbeda. Setiap thread memiliki penghitung program, a register set, dan stack space. Thread tidak independen satu sama lain karena mereka berbagi kode, data, sumber daya OS, dll.
+
+27. [Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/?ref=lbp) <br>
+link di atas menjelaskan mengenai perbedaan process dan thread dengan singkat dan jelas sehingga dapat dengan mudah dipahami.
+
 

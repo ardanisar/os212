@@ -4,7 +4,7 @@ permalink: /LINKS/
 
 | [HOME](https://ardanisar.github.io/os212/) | [GITHUB](https://github.com/ardanisar/os212) |  [LINKS](https://ardanisar.github.io/os212/LINKS/) | [LOG](https://ardanisar.github.io/os212/TXT/mylog.txt) |  [RANK](https://ardanisar.github.io/os212/TXT/myrank.txt) | [TIPS](https://ardanisar.github.io/os212/TIPS/) |
 
-# 📌 TOP LINKS FOR OPERATING SYSTEM
+# 📌 Top Links For Operation System
 
 1. [Basic Operating System](https://www.guru99.com/operating-system-tutorial.html) <br>
 Sebagai awalan mata kuliah Sistem Operasi, kita perlu mengetahui definisi dari sistem operasi dan beberapa hal penting yang berkaitan dengan sistem operasi. Sistem operasi adalah sebuah perangkat lunak yang berperan sebagai interface yang berada diantara komponen hardware dan komputer pengguna. Situs ini membahas sistem operasi dengan sangat lengkap mulai dari pengertian, sejarah sistem operasi, apa itu kernel dalam sistem operasi, hingga perbandingan antara 32 bit vs 64 bit operating system.
@@ -48,8 +48,7 @@ Bahasa yang berbeda membaca teks mereka dalam urutan yang berbeda. Bahasa Inggri
 14. [Logical VS Physical Address](https://techdifferences.com/difference-between-logical-and-physical-address.html) <br>
 Address secara unik mengidentifikasi lokasi dalam memori. Terdapat dua jenis addressing yaitu logical address dan physical address. Logical address adalah alamat virtual dan dapat dilihat oleh pengguna. Pengguna tidak dapat melihat alamat fisik secara langsung. Sedangkan logical address digunakan untuk referensi, untuk mengakses physical address. Link di atas dapat membantu untuk dapat memahami materi mengenai addressing.
 
-15. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br>  
-Virtual Memory adalah skema alokasi penyimpanan di mana memori sekunder dapat dialamatkan seolah-olah itu adalah bagian dari main memori. Alamat yang mungkin digunakan    program untuk referensi memori dibedakan dari alamat yang digunakan sistem memori untuk mengidentifikasi situs penyimpanan fisik, dan alamat yang dihasilkan program diterjemahkan secara otomatis ke alamat mesin yang sesuai. Link di atas dapat membantu dalam memahami virtual memory dengan lebih mudah.
+15. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br> Virtual Memory adalah skema alokasi penyimpanan di mana memori sekunder dapat dialamatkan seolah-olah itu adalah bagian dari main memori. Alamat yang mungkin digunakan program untuk referensi memori dibedakan dari alamat yang digunakan sistem memori untuk mengidentifikasi situs penyimpanan fisik, dan alamat yang dihasilkan program diterjemahkan secara otomatis ke alamat mesin yang sesuai. Link di atas dapat membantu dalam memahami virtual memory dengan lebih mudah.
 
 16. [Virtual Memory Playlist](https://youtu.be/qcBIvnQt0Bw) <br>
 Link di atas berisi video-video mengenai penjelasan virtual memori. Penjelasannya cukup lengkap dan durasinya cukup singkat, sehingga kita bisa memilih bagian materi mana saja yang ingin kita tonton.

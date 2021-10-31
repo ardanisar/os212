@@ -56,8 +56,8 @@ Link di atas berisi video-video mengenai penjelasan virtual memori. Penjelasanny
 17. [First Fit, Next Fit, Best Fit and Worst Fit Algorithms | Memory Management in Operasting System](https://youtu.be/fz9v-SZt3cQ) <br>
 Link video di atas dapat membantu untuk memahami mengenai memory allocation algorithm yaitu first fit, next fit, best fit, dan worst fit. 
 
-18. [Memory Management](https://www.geeksforgeeks.org/memory-management-in-operating-system/) <br>
-Memory management adalah metode dalam sistem operasi untuk mengelola operasi antara memori utama dan disk selama eksekusi proses. Tujuan utama dari manajemen memori adalah untuk mencapai pemanfaatan memori yang efisien. Link di atas dapat membantu dalam memahami materi memory management dengan mudah
+18. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) <br>
+Link di atas menjelaskan pengertian fork pada bahasa C beserta contoh sederhananya.
 
 19. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/) <br>
 Concurrency adalah eksekusi beberapa urutan instruksi secara bersamaan. Itu terjadi di sistem operasi ketika ada beberapa utas proses yang berjalan secara paralel. Utas proses yang berjalan selalu berkomunikasi satu sama lain melalui memori bersama atau lewat pesan. Hasil konkurensi dalam berbagi sumber daya menghasilkan masalah seperti kebuntuan dan kelaparan sumber daya. Link di atas dapat membantu dalam memahami materi concurrency pada sistem operasi
@@ -73,9 +73,6 @@ Process scheduler adalah aktivitas manajer proses yang menangani penghapusan pro
 
 25. [Process Table and Process Control Block (PCB)](geeksforgeeks.org/process-table-and-process-control-block-pcb/?ref=lbp) <br>
 Process control block (PCB) digunakan untuk melacak status eksekusi proses. Setiap blok memori berisi informasi tentang status proses, penghitung program, penunjuk tumpukan, status file yang dibuka, algoritma penjadwalan, dll. Semua informasi ini diperlukan dan harus disimpan saat proses dialihkan dari satu status ke status lainnya. Ketika proses membuat transisi dari satu keadaan ke keadaan lain, sistem operasi harus memperbarui informasi dalam PCB proses.
-
-25. [Interrupts](https://www.geeksforgeeks.org/interrupts/?ref=lbp) <br>
-Interrupt adalah sinyal yang dipancarkan oleh perangkat keras atau perangkat lunak ketika suatu proses atau peristiwa membutuhkan perhatian segera. Ini mengingatkan prosesor untuk proses prioritas tinggi yang membutuhkan gangguan dari proses kerja saat ini. Dalam perangkat I/O salah satu jalur kontrol bus didedikasikan untuk tujuan ini dan disebut Interrupt Service Routine (ISR).
 
 25. [Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/?ref=lbp) <br>
 Thread adalah jalur eksekusi dalam suatu proses. Suatu proses dapat berisi banyak utas. Thread juga dikenal sebagai proses ringan. Idenya adalah untuk mencapai paralelisme dengan membagi proses menjadi beberapa thread. Misalnya, di browser, beberapa tab dapat menjadi thread yang berbeda. 

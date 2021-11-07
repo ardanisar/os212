@@ -84,4 +84,13 @@ Thread adalah single sequence stream dalam suatu proses. Thread memiliki sifat y
 27. ### [Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/?ref=lbp) 
 link di atas menjelaskan mengenai perbedaan process dan thread dengan singkat dan jelas sehingga dapat dengan mudah dipahami.
 
+28. ### [Process Synchronization in Operating System](https://www.studytonight.com/operating-system/process-synchronization) 
+Link di atas menjelaskan materi mengenai process synchronization dalam sistem operasi dengan jelas dan cukup singkat sehingga mudah untuk dipahami
+
+29. ### [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)
+Video di atas membantu untuk memahami process synchronization dengan lebih banyak penjelasan.
+
+30. ### [Introduction Deadlock in Operating System](https://www.studytonight.com/operating-system/deadlocks)
+Link di atas dapat membantu untuk memehamai materi pengenalan deadlock. Bahasa yang digunakan juga cukup mudah sehingga mudah dimengerti. Selain itu, terdapat artikel-artikel lanjutan terkait deadlock sehingga mempermudah dalam memahami materi deadlock secara utuh.
+
 

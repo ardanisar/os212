@@ -93,4 +93,12 @@ Video di atas membantu untuk memahami process synchronization dengan lebih banya
 30. ### [Introduction Deadlock in Operating System](https://www.studytonight.com/operating-system/deadlocks)
 Link di atas dapat membantu untuk memehamai materi pengenalan deadlock. Bahasa yang digunakan juga cukup mudah sehingga mudah dimengerti. Selain itu, terdapat artikel-artikel lanjutan terkait deadlock sehingga mempermudah dalam memahami materi deadlock secara utuh.
 
+31. ### [Definition UEFI](https://whatis.techtarget.com/definition/Unified-Extensible-Firmware-Interface-UEFI) 
+Link di atas berisi mengenai materi introduction to UEFI (Unified Extensible Firmware Interface (UEFI). Unified Extensible Firmware Interface (UEFI) adalah spesifikasi untuk program perangkat lunak yang menghubungkan firmware komputer ke sistem operasi (OS). UEFI diharapkan pada akhirnya menggantikan sistem input/output dasar (BIOS) tetapi kompatibel dengannya.
+
+32. ### [UEFI vs BIOS: What's the Difference?](https://www.freecodecamp.org/news/uefi-vs-bios/)
+Link di atas dapat membantu untuk memahami perbedaan UEFI dan BIOS. 
+
+33. ### [Storage Structure in Operating Systems](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)
+Link di atas dapat membantu untuk memahami basic storage structure pada operating system. Detilnya, link di tas menjelaskan main storage dan secondary storage, hierarchy storage, magnetic disk, volatile storage device dan non-volatile storage device.
 

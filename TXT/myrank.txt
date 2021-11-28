@@ -23,3 +23,6 @@ ZCZC W07 fikriazain
 ZCZC W09 huanis
 ZCZC W09 ilhanfn
 ZCZC W09 indiradr
+ZCZC W10 stephanusdario
+ZCZC W10 taufiqulmawarid
+ZCZC W10 valordra

@@ -102,3 +102,14 @@ Link di atas dapat membantu untuk memahami perbedaan UEFI dan BIOS.
 33. ### [Storage Structure in Operating Systems](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)
 Link di atas dapat membantu untuk memahami basic storage structure pada operating system. Detilnya, link di tas menjelaskan main storage dan secondary storage, hierarchy storage, magnetic disk, volatile storage device dan non-volatile storage device.
 
+34. ### [File Descriptor](https://www.computerhope.com/jargon/f/file-descriptor.htm#:~:text=A%20file%20descriptor%20is%20a,Grants%20access.)
+Deskriptor file adalah angka yang secara unik mengidentifikasi file yang terbuka di sistem operasi komputer. Ini menjelaskan sumber daya data, dan bagaimana sumber daya itu dapat diakses.
+
+35. ### [dup() and dup2() Linux system call](https://www.geeksforgeeks.org/dup-dup2-linux-system-call/)
+dup() system call membuat salinan deskriptor file. Ini menggunakan deskriptor yang tidak digunakan dengan nomor terendah untuk deskriptor baru.
+Jika salinan berhasil dibuat, maka deskriptor file asli dan salinan dapat digunakan secara bergantian.
+Keduanya merujuk pada deskripsi file terbuka yang sama dan dengan demikian berbagi offset file dan flag status file.
+
+36. ### [How to Use Lseek System Call in C](https://linuxhint.com/use-lseek-system-call-c/)
+Lseek system call telah digunakan untuk membaca beberapa karakter atau data tertentu dari file atau untuk menulis beberapa konten di lokasi tertentu dari file apa pun. Ini berarti lseek system call memungkinkan untuk membaca atau menulis dari antara konten file.
+

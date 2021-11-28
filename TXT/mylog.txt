@@ -143,7 +143,6 @@ ZCZC W09  20 L17 Assignment #07
 ZCZC W09  10 L18 Assignment #08
 ZCZC W09  10 L19 Assignment #09
 ZCZC W09  45 L32 Youtube: Study OS
-
 ZCZC W10  20 L01 SCELE/Discord related
 ZCZC W10  30 L02 ZOOM meetings related
 ZCZC W10  20 L03 GitHub related
